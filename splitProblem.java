@@ -2,7 +2,7 @@
 /*Take email as user input and print the email company name.
 Output- 
 Enter an email- harinder007@gmail.com
-Mail company- gmail*/
+Mail company- gmail */
 
 
 
